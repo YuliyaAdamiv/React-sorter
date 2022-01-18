@@ -9,7 +9,9 @@ In the project directory, you can run:
 
 Open React-project in Visual Studio.
 Open Terminal.
-###`cd my-app`
+
+### `cd my-app`
+
 Open application directory
 
 ### `npm start`
